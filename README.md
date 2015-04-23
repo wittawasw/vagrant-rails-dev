@@ -1,7 +1,7 @@
 Vagrant rails-dev
 ==================
 
-vagrant box (Virtual Box provider) of typical rails dev environments
+vagrant box (Virtual Box provider) of typical rails dev environments in centOS 7
 
 ### usage
 clone and use 
