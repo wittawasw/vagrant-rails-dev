@@ -1,7 +1,7 @@
 Vagrant rails-dev
 ==================
 
-vagrant box of typical rails dev environments
+vagrant box (Virtual Box provider) of typical rails dev environments
 
 ### usage
 clone and use 
